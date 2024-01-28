@@ -1,4 +1,4 @@
-module belajar_golang_httprouting
+module github.com/AkhdanFirdaus/belajar-golang-httprouting
 
 go 1.21.5
 
